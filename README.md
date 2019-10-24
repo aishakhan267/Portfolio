@@ -1,37 +1,73 @@
-## Welcome to GitHub Pages
+# Syed Muhammad Sameer
 
-You can use the [editor on GitHub](https://github.com/aishakhan267/mine-work/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+> Hi, I'm Syed Sameer! A Front End developer & open source enthusiast and freelancer passionate about web platform (especially JavaScript).
+I live in Karachi, Pakistan and pretty much enjoying my life.
+I've been working with JavaScript (React) for the last 1 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+|||
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|**HTML5**|**CSS3**|**Javascript (ES5/ES6/ES7/ES8)**|
+|**React**|
+|**Github**|
 
-```markdown
-Syntax highlighted code block
+***
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+#### React
 
-1. Numbered
-2. List
+1. **GitHub-clone: :** [https://github-clone.syedsameer.now.sh/](https://github-clone.syedsameer.now.sh/)
 
-**Bold** and _Italic_ and `Code` text
+1. **Game-House: :** [https://game-hosue.syedsameer.now.sh/](https://game-hosue.syedsameer.now.sh/)
 
-[Link](url) and ![Image](src)
-```
+#### JavaScript
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. **Timer: :** [https://syed-sameer1.github.io/timer/](https://syed-sameer1.github.io/timer/)
 
-### Jekyll Themes
+2. **Stop-watch: :** [https://syed-sameer1.github.io/watch/](https://syed-sameer1.github.io/watch/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aishakhan267/mine-work/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+3. **WhatsApp-clone: :** [https://syed-sameer1.github.io/whatsapp/](https://syed-sameer1.github.io/whatsapp/)
 
-### Support or Contact
+4. **Super-mart: :** [https://syed-sameer1.github.io/super-mart/](https://syed-sameer1.github.io/super-mart/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### HTML & CSS
+
+1. **Bata-clone: :** [https://syed-sameer1.github.io/Bata-task/](https://syed-sameer1.github.io/Bata-task/)
+
+2. **Liberty books-clone: :** [: https://syed-sameer1.github.io/liberty-books-task/](: https://syed-sameer1.github.io/liberty-books-task/)
+
+3. **Feedback-Form: :** [https://syed-sameer1.github.io/Feedback-form-task/](https://syed-sameer1.github.io/Feedback-form-task/)
+
+4. **Wikipedia-clone: :** [https://syed-sameer1.github.io/Wikipedia-task/](https://syed-sameer1.github.io/Wikipedia-task/)
+
+5. **My-project-gallery: :** [https://syed-sameer1.github.io/gallery/](https://syed-sameer1.github.io/gallery/)
+
+6. **Emoji-grid: :** [https://syed-sameer1.github.io/emoji-4/]( https://syed-sameer1.github.io/emoji-4/)
+
+7. **Slack-clone: :** [https://syed-sameer1.github.io/slack/](https://syed-sameer1.github.io/slack/)
+
+8. **TechKaro-Web: :** [ https://syed-sameer1.github.io/19-may/]( https://syed-sameer1.github.io/19-may/)
+
+#### HTML & CSS
+
+1. **Rainbow: :** [https://syed-sameer1.github.io/rainbow-anim/](https://syed-sameer1.github.io/rainbow-anim/)
+
+2. **Divs: :** [https://syed-sameer1.github.io/position/](https://syed-sameer1.github.io/position/)
+
+3. **Ball: :** [https://syed-sameer1.github.io/Animation/](https://syed-sameer1.github.io/Animation/)
+
+
+#### Contact
+
+> [Github](https://github.com/syed-sameer1)
+
+> [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
+
+> [Facebook](https://web.facebook.com/SyedSameer6605)
+
+> [Email: sameer.shah12570@gmail.com](gmail:sameer.shah12570@gmail.com)
+
