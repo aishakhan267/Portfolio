@@ -2,7 +2,6 @@
 ####<Coder>
 
 > Hi, I am Aisha Khan! A Front End developer, love Programming & focus on writing clean and efficient code.
-I live in Karachi, Pakistan and pretty much enjoying my life.
 I've been working with JavaScript (React) for the last 1 years.
 
 ***
