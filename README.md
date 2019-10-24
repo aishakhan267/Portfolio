@@ -1,7 +1,5 @@
 # Aisha Khan
 
-#### Coder
-
 > Hi, I am Aisha Khan! A Front End developer, love Programming & focus on writing clean and efficient code.
 I've been working with JavaScript (React) for the last 1 years.
 
