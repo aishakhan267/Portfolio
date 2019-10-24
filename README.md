@@ -1,6 +1,7 @@
-# Syed Muhammad Sameer
+# Aisha Khan
+####<Coder>
 
-> Hi, I'm Syed Sameer! A Front End developer & open source enthusiast and freelancer passionate about web platform (especially JavaScript).
+> Hi, I am Aisha Khan! A Front End developer, love Programming & focus on writing clean and efficient code.
 I live in Karachi, Pakistan and pretty much enjoying my life.
 I've been working with JavaScript (React) for the last 1 years.
 
