@@ -60,3 +60,5 @@ I've been working with JavaScript (React) for the last 1 year.
 
 > [Email: aishakeh3@gmail.com](gmail:aishakeh3@gmail.com)
 
+> [Freelancer: https://www.freelancer.com/u/aishakeh3?w=f](https://www.freelancer.com/u/aishakeh3?w=f)
+
