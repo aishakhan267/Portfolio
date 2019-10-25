@@ -1,6 +1,6 @@
 # Aisha Khan
 
-> Hi, I am Aisha Khan! A Front End developer, love Programming & focus on writing clean and efficient code.
+> Hi, I am Aisha Khan! A Front End Developer, love Programming & focus on writing clean and efficient code.
 I've been working with JavaScript (React) for the last 1 years.
 
 ***
@@ -19,35 +19,35 @@ I've been working with JavaScript (React) for the last 1 years.
 
 #### React
 
-1. **GitHub-clone: :** [https://github-clone.syedsameer.now.sh/](https://github-clone.syedsameer.now.sh/)
+1. **GitHub-clone: :** [https://github-clone.aishakhan267.now.sh/](https://github-clone.aishakhan267.now.sh/)
 
 1. **Game-House: :** [https://game-hosue.syedsameer.now.sh/](https://game-hosue.syedsameer.now.sh/)
 
 #### JavaScript
 
-1. **Timer: :** [https://syed-sameer1.github.io/timer/](https://syed-sameer1.github.io/timer/)
+1. **Timer: :** [https://aishakhan267.github.io/timer-task-of-java-/](https://aishakhan267.github.io/timer-task-of-java-/)
 
-2. **Stop-watch: :** [https://syed-sameer1.github.io/watch/](https://syed-sameer1.github.io/watch/)
+2. **Stop-watch: :** [https://aishakhan267.github.io/stopwatch-task/](https://aishakhan267.github.io/stopwatch-task/)
 
-3. **WhatsApp-clone: :** [https://syed-sameer1.github.io/whatsapp/](https://syed-sameer1.github.io/whatsapp/)
+3. **WhatsApp-clone: :** [https://aishakhan267.github.io/whtsapp-api-task/](https://aishakhan267.github.io/whtsapp-api-task/)
 
-4. **Super-mart: :** [https://syed-sameer1.github.io/super-mart/](https://syed-sameer1.github.io/super-mart/)
+4. **Fruit-shop: :** [https://aishakhan267.github.io/fruit-task/](https://aishakhan267.github.io/fruit-task/)
 
 #### HTML & CSS
 
-1. **Bata-clone: :** [https://syed-sameer1.github.io/Bata-task/](https://syed-sameer1.github.io/Bata-task/)
+1. **My-country-flag: :** [https://aishakhan267.github.io/pakistan-flag-3D-flashcard/](https://aishakhan267.github.io/pakistan-flag-3D-flashcard/)
 
-2. **Liberty books-clone: :** [: https://syed-sameer1.github.io/liberty-books-task/](: https://syed-sameer1.github.io/liberty-books-task/)
+2. **Liberty books-clone: :** [https://aishakhan267.github.io/liberty-book/](https://aishakhan267.github.io/liberty-book/)
 
-3. **Feedback-Form: :** [https://syed-sameer1.github.io/Feedback-form-task/](https://syed-sameer1.github.io/Feedback-form-task/)
+3. **Bata-task: :** [https://aishakhan267.github.io/bata-task/](https://aishakhan267.github.io/bata-task/)
 
 4. **Wikipedia-clone: :** [https://syed-sameer1.github.io/Wikipedia-task/](https://syed-sameer1.github.io/Wikipedia-task/)
 
-5. **My-project-gallery: :** [https://syed-sameer1.github.io/gallery/](https://syed-sameer1.github.io/gallery/)
+5. **Video-arrow-task: :** [https://aishakhan267.github.io/video-task/](https://aishakhan267.github.io/video-task/)
 
-6. **Emoji-grid: :** [https://syed-sameer1.github.io/emoji-4/]( https://syed-sameer1.github.io/emoji-4/)
+6. **Technical-documentation-page: :** [https://aishakhan267.github.io/freecodeccamp-task4-documentation--page/](https://aishakhan267.github.io/freecodeccamp-task4-documentation--page/)
 
-7. **Slack-clone: :** [https://syed-sameer1.github.io/slack/](https://syed-sameer1.github.io/slack/)
+7. **Slack-clone: :** [https://aishakhan267.github.io/slack-task/](https://aishakhan267.github.io/slack-task/)
 
 8. **TechKaro-Web: :** [ https://syed-sameer1.github.io/19-may/]( https://syed-sameer1.github.io/19-may/)
 
