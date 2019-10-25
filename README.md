@@ -41,7 +41,7 @@ I've been working with JavaScript (React) for the last 1 years.
 
 3. **Bata-task: :** [https://aishakhan267.github.io/bata-task/](https://aishakhan267.github.io/bata-task/)
 
-4. **Wikipedia-clone: :** [https://syed-sameer1.github.io/Wikipedia-task/](https://syed-sameer1.github.io/Wikipedia-task/)
+4. **Wikipedia-clone: :** [https://aishakhan267.github.io/wikipedia-task/](https://aishakhan267.github.io/wikipedia-task/)
 
 5. **Video-arrow-task: :** [https://aishakhan267.github.io/video-task/](https://aishakhan267.github.io/video-task/)
 
@@ -49,24 +49,14 @@ I've been working with JavaScript (React) for the last 1 years.
 
 7. **Slack-clone: :** [https://aishakhan267.github.io/slack-task/](https://aishakhan267.github.io/slack-task/)
 
-8. **TechKaro-Web: :** [ https://syed-sameer1.github.io/19-may/]( https://syed-sameer1.github.io/19-may/)
+8. **Flolwer-task: :** [https://aishakhan267.github.io/example-task/](https://aishakhan267.github.io/example-task/)
 
-#### HTML & CSS
-
-1. **Rainbow: :** [https://syed-sameer1.github.io/rainbow-anim/](https://syed-sameer1.github.io/rainbow-anim/)
-
-2. **Divs: :** [https://syed-sameer1.github.io/position/](https://syed-sameer1.github.io/position/)
-
-3. **Ball: :** [https://syed-sameer1.github.io/Animation/](https://syed-sameer1.github.io/Animation/)
+9. **Olx-clone: :** [https://aishakhan267.github.io/Olx-task/](https://aishakhan267.github.io/Olx-task/)
 
 
 #### Contact
 
-> [Github](https://github.com/syed-sameer1)
+> [Github](https://github.com/aishakhan267)
 
-> [Linkedin](https://www.linkedin.com/in/smkamranqadri/)
-
-> [Facebook](https://web.facebook.com/SyedSameer6605)
-
-> [Email: sameer.shah12570@gmail.com](gmail:sameer.shah12570@gmail.com)
+> [Email: aishakeh3@gmail.com](gmail:aishakeh3@gmail.com)
 
